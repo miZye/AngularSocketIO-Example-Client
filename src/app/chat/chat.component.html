@@ -1,0 +1,13 @@
+
+<p>
+  chat works!
+
+  <button (click)="sendMsg()">Click me</button>
+
+
+</p>
+<div *ngFor="let message of messages">
+  <p>
+    {{message.from.name}} writes: {{message.content}}
+  </p>
+</div>
