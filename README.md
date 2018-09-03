@@ -13,3 +13,5 @@ Be sure, that you have downloaded or written the server code, otherwise it const
 
 ## Libraries
 
+* [Angular CLI](https://angular.io/)
+* [Socket.IO](https://socket.io/)
